@@ -10,8 +10,8 @@
         //log(num): here, log is a function and num is an argument, meaning you can pass a variable into a function as an argument
 
 //MEDIUM
-        //create a variable that holds a value from the input
-
+//create a variable that holds a value from the input
+    let inputedVal = 
 
 //add 25 to that number
 
