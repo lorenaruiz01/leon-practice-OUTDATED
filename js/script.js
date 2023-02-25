@@ -11,8 +11,14 @@
 
 //MEDIUM
 //create a variable that holds a value from the input
-    let inputedVal = 
+    let inputedVal = document.querySelector('#danceDanceRevolution').value
 
 //add 25 to that number
+    inputedVal = inputedVal + 25
+    // or: inputedVal += 25 (different syntax)   
 
 //alert that number
+    alert(inputedVal)
+    // alert is a function, but it is built-in to JS, so it is technically a method. a method is a function that is tied to an object. the whole thing (alert(inputed Val)) is a function call. By alerting 'inputedVal' we are passing in a value and that value is our argument. 
+
+
