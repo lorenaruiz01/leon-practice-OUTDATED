@@ -22,3 +22,7 @@
     // alert is a function, but it is built-in to JS, so it is technically a method. a method is a function that is tied to an object. the whole thing (alert(inputed Val)) is a function call. By alerting 'inputedVal' we are passing in a value and that value is our argument. 
 
 
+//HARD
+//create a variable that holds the h1
+
+//add an event listener to that element that console logs the sum of the two previous variables
