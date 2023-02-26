@@ -24,5 +24,10 @@
 
 //HARD
 //create a variable that holds the h1
-
+    const h1Holder = document.querySelector('h1')
 //add an event listener to that element that console logs the sum of the two previous variables
+    h1Holder.addEventListener('click', sum)
+
+    function sum (){
+        console.log(num + Number(inputedVal))
+    }
